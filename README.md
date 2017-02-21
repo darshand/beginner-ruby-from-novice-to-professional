@@ -1,2 +1,2 @@
 # beginner-ruby-from-novice-to-professional
-beginner ruby from novice to professional 2nd edition exercises
+This repository contains the example exercises mentioned in the book beginner ruby from novice to professional 2nd edition by Peter Cooper.
