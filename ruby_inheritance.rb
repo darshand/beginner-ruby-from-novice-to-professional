@@ -9,7 +9,7 @@ class Dog < Pet
 end
 
 class Snake < Pet
-  attr_accessor :length
+  attr_accessor :length # Snake class specific attr declaration
 end
 
 snake = Snake.new # Snake object creation
