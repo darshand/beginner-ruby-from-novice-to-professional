@@ -10,7 +10,9 @@ end
 puts "Number of lines : #{line_count} "
 
 # --------- Much easier way
-lines = File.readlines('text.txt')
+#
+ lines = File.readlines('text.txt') # Reading hardcoded text.txt file
+# lines = File.readlines(ARGV.first) # Reads file given from command line 
 line_count = lines.size
 text = lines.join
 total_characters = text.length
