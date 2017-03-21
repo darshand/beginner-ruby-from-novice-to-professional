@@ -1,0 +1,21 @@
+Ruby
+Named after gemstone (influenced by perl)
+
+Developed in 1993
+by Yukihiro Matsumoto (Matz) in Japan
+
+“I wanted a language that was more powerful than Perl, and more object-oriented than Python. That’s why 
+I decided to design my own language.”
+
+
+Ruby alpha - December 1995
+Ruby 1.0 - December 25, 1996
+
+- Inflenced from perl, smalltalk
+- There is more than one way to do it (TIMTOWTDI) is inherited from perl
+- An official English language web site soon followed in late 1999 with the creation of ruby-lang.org (http://www.ruby-lang.org/)
+- 37signals(a web design agency then) wanted a tool to run their business efficiently.
+- contacted DHH (student from Copenhagen University, Denmark) to develop a tool
+- July 2004 released framework to public 
+- DHH become company partner
+
