@@ -18,4 +18,20 @@ Ruby 1.0 - December 25, 1996
 - contacted DHH (student from Copenhagen University, Denmark) to develop a tool
 - July 2004 released framework to public 
 - DHH become company partner
-
+- DHH won 'Best hacker of the year 2005 from Google and O'Reilly'
+- Ruby mailing lists 
+	- ruby-talk
+	- ruby-core
+	- ruby-doc
+- IRC channels
+	- #ruby on irc.freenode.net
+	- #rubyonrails on irc.freenode.net
+- Forums
+	- ruby-forum.com
+	- community.sitepoint.com/c/ruby
+	- railsforum.com
+- News sites and Sources
+	- rubyflow.com
+	- rubyweeky.com
+	- ruby5.codeschool.com
+	- Ruby in Reddit
